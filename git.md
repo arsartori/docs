@@ -15,3 +15,6 @@
 	git config --global user.email "myemail@example.com" 
 	git config --global credential.helper store
 	git config --global credential.helper "cache --timeout=86400"
+### Branch
+	git push -d origin <nome da branch>
+ 	git branch -d <nome da branch>
